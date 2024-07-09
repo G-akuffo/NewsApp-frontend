@@ -2,14 +2,11 @@ import React from "react";
 
 import { SafeAreaView, View, StyleSheet, ScrollView } from "react-native";
 import SearchBar from "./app/components/SearchBar";
-import BlockCard from "./app/components/BlockCard";
 import FeaturedNews from "./app/components/FeaturedNews";
-import SmallCard from "./app/components/SmallCard";
 import BreakingNews from "./app/components/BreakingNews";
 
 import data from "./fakeData";
 import TechNews from "./app/components/TechNews";
-import FlatCard from "./app/components/FlatCard";
 import PoliticalNews from "./app/components/PoliticalNews";
 import EntertainmentNews from "./app/components/EntertainmentNews";
 
